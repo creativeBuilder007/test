@@ -1,5 +1,0 @@
-{{#user}
-Name: Aditya Prakash Gupta
-Skills: HTML, CSS, Java(Learning)
-Email: 3pm2022adityaprakash@gmail.com
-{{/user}}
